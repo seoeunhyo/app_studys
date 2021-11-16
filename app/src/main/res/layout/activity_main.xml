@@ -5,17 +5,17 @@
     android:id="@+id/text"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#712339"
+    android:background="#82CBF6"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="154dp"
+        android:layout_height="185dp"
         android:layout_gravity="left|center_vertical"
         android:layout_margin="5sp"
-        android:background="@drawable/sdf"
+        android:background="#BCC7CF"
         android:drawableLeft="@drawable/watchsize"
         android:drawablePadding="18dip"
         android:paddingLeft="18dp"
@@ -31,10 +31,10 @@
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="154dp"
+        android:layout_height="184dp"
         android:layout_gravity="left|center_vertical"
         android:layout_margin="5sp"
-        android:background="@drawable/sdf"
+        android:background="#8FACC2"
         android:drawableLeft="@drawable/checkboxsize"
         android:drawablePadding="18dip"
         android:paddingLeft="18dp"
@@ -52,7 +52,7 @@
         android:layout_weight="1"
         android:gravity="bottom"
         android:text="고객 센터 0000 - 0000"
-        android:textColor="#EDE5E5"
+        android:textColor="#150101"
         android:textColorHint="#F6F1F1"
         android:textSize="18sp" />
 
@@ -60,9 +60,9 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
         android:text="위치 : 서울시 강서구 화곡동 "
-        android:textColor="#F4F2F2"
-        android:textSize="18sp"
-        android:layout_gravity="bottom"/>
+        android:textColor="#0C0000"
+        android:textSize="18sp" />
 
 </LinearLayout>

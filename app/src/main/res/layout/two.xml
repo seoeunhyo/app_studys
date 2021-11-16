@@ -15,4 +15,11 @@
         android:gravity="center|center_horizontal"
         android:text="예약하기"
         android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Button" />
 </LinearLayout>

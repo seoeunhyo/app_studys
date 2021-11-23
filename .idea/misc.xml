@@ -12,15 +12,19 @@
         <entry key="..\:/Users/ssh99/AndroidStudioProjects/appstudy/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/ssh99/AndroidStudioProjects/appstudy/app/src/main/res/layout/third.xml" value="0.22" />
         <entry key="..\:/Users/ssh99/AndroidStudioProjects/appstudy/app/src/main/res/layout/two.xml" value="0.3333333333333333" />
+        <entry key="..\:/education/appstudy/app/src/main/res/drawable/action_bar.xml" value="0.1" />
+        <entry key="..\:/education/appstudy/app/src/main/res/drawable/actionbar.xml" value="0.1" />
+        <entry key="..\:/education/appstudy/app/src/main/res/drawable/background_bottom.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/button2.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/buttonpressed.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/checkboxsize.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/education/appstudy/app/src/main/res/drawable/rectangle.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/sdf.xml" value="0.1" />
         <entry key="..\:/education/appstudy/app/src/main/res/drawable/watchsize.xml" value="0.1" />
-        <entry key="..\:/education/appstudy/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/education/appstudy/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
         <entry key="..\:/education/appstudy/app/src/main/res/layout/third.xml" value="0.1" />
-        <entry key="..\:/education/appstudy/app/src/main/res/layout/two.xml" value="0.13333333333333333" />
+        <entry key="..\:/education/appstudy/app/src/main/res/layout/two.xml" value="0.22" />
       </map>
     </option>
   </component>
@@ -29,5 +33,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
   </component>
 </project>

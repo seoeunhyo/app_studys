@@ -18,15 +18,15 @@
         android:background="#BCC7CF"
         android:drawableLeft="@drawable/watchsize"
         android:drawablePadding="18dip"
+        android:onClick="onClick"
         android:paddingLeft="18dp"
         android:text="예약하기"
         android:textColor="#050000"
         android:textColorHighlight="#E6E3E3"
         android:textSize="40sp"
         app:rippleColor="#070707"
-        app:strokeColor="#F3EFEF"
 
-        />
+        app:strokeColor="#F3EFEF" />
 
     <Button
         android:id="@+id/button2"

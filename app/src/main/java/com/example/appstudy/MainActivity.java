@@ -23,17 +23,11 @@ public class MainActivity extends Activity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(MainActivity.this, reservation.class);
+                startActivity(intent);
             }
         });
 
-
-
-
     }
 
-    public void onClick(View view) {
-        Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
-        startActivity(intent);
-    }
 }
